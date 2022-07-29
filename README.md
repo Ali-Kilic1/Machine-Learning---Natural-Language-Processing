@@ -7,7 +7,7 @@ Kullanılan Algoritma
 
 Hata ayıklama yöntemi=confusion matrix
 
-➡️Kullanılan Kütüphaneler:
+Kullanılan Kütüphaneler:
 
   Pandas
 
